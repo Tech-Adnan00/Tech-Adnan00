@@ -44,19 +44,19 @@
 
 ### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar751&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Adnan00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar751&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakar751&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tech-Adnan00&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ### 🚀 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar751&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Adnan00&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ### 💡 Coder's Quote  
